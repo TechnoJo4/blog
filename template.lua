@@ -26,7 +26,7 @@ end
 function template.parse(t)
 	local _t = "local __w = ...\n"
 			.. "local function __e(...) __w(template.escape(...)) end\n"
-    		.. "__w[=["
+			.. "__w[=["
 			.. t:gsub("[][]=[][]", ']=]__w"%1"__w[=[')
 				:gsub("<%%=", "]=]__w(")
 				:gsub("<%%", "]=]__e(")
