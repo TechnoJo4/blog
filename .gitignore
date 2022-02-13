@@ -1,2 +1,7 @@
 *.sh
+
+# dependencies
 deps
+
+# sublime text project/workspace
+*.sublime-*

@@ -2,7 +2,7 @@
 
 simple template system for my blog.
 
-dependencies: `luvit`, `creationix/coro-fs`
+dependencies: `luvit`, `creationix/coro-fs`, markdown (included in the repo)
 
 instructions:
 
