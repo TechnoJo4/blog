@@ -1,4 +1,9 @@
+# scripts
 *.sh
+*.ps1
+
+# builds
+dist/
 
 # dependencies
 deps

@@ -4,12 +4,12 @@ simple template system for my blog.
 
 dependencies: `luvit`, `creationix/coro-fs`, markdown (included in the repo)
 
-instructions:
+usage instructions:
 
 ```
 luvit ./gen.lua
-cp style.css dist/style.css
+cp res/* dist/
 
 # delete old version
-# move dist to whereever your http server serves static files from
+# move dist/ to whereever your http server serves static files from
 ```

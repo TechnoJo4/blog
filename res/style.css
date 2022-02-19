@@ -70,3 +70,9 @@ h1 {
 		color: #444444;
 	}
 }
+
+/* what_is_blockchain */
+.illust {
+	width: 100%;
+	object-fit: contain;
+}
