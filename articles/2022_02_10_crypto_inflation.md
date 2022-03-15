@@ -1,10 +1,6 @@
 # History of inflation in cryptocurrencies
 
-This article is a followup to another article of mine,
-[Cryptocurrency can be succesful currency](crypto_can_be_successful.html).
-Reading that one before this may be required.
-
-**Note:** *inflation* can refer to two things. The first meaning, the one used
+*Inflation* can refer to two things. The first meaning, the one used
 throughout this article, is the increase in the supply of money. The other is
 an increase in prices (a decrease in the worth of that money), usually caused
 by the increase in supply.
