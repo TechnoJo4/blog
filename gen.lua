@@ -64,7 +64,7 @@ coroutine.wrap(function()
 				month = tonumber(month),
 				day = tonumber(day),
 				title = title,
-				link = "/blog/"..resname
+				link = resname
 			}
 		else
 			resname = file.name:match("^(.*)%.")..".html"
