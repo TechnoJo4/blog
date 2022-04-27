@@ -5,6 +5,10 @@ article {
 article p {
 	line-height: 1.5;
 }
+article img {
+	width: 100%;
+	object-fit: contain;
+}
 body > div {
 	display: flex;
 	flex-direction: row;
@@ -13,12 +17,12 @@ nav, .buffer {
 	text-align: end;
 	flex: 1 0 min-content;
 }
-@media (min-aspect-ratio: 1.5) {
+@media (min-aspect-ratio: 3/2) {
 	article {
 		width: 40vw;
 	}
 }
-@media (max-aspect-ratio: 0.8) {
+@media (max-aspect-ratio: 4/5) {
 	article {
 		width: 100%;
 		margin: 0;
@@ -69,10 +73,4 @@ h1 {
 	a {
 		color: #444444;
 	}
-}
-
-/* what_is_blockchain */
-.illust {
-	width: 100%;
-	object-fit: contain;
 }
