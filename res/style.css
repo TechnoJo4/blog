@@ -9,6 +9,10 @@ article img {
 	width: 100%;
 	object-fit: contain;
 }
+blockquote {
+	margin-inline-start: 3em;
+	margin-inline-end: 3em;
+}
 body > div {
 	display: flex;
 	flex-direction: row;
