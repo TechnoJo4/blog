@@ -111,6 +111,5 @@ demonstrated by the abyssmal effectiveness of the AML regime, criminals
 already have access to banking services with privacy. Why can't *everyone* get
 the same access? Crypto allows anyone to get access to money with no
 intermediaries, access to their money only for themselves, but it doesn't have
-privacy yet. Crypto should be money for criminals, not those who become profit
-from abuse, the rest of criminals: marginalized groups, political activists,
-sex workers, civil rights organisations, etc.
+privacy yet. Crypto should be money for criminals: marginalized populations,
+political activists, sex workers, civil rights organisations, etc.
