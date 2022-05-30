@@ -94,7 +94,7 @@ waste, they give weight according to their balance on the blockchain itself,
 depending instead on the monetary cost of acquiring their digital currency
 to create security. This is called Proof of Stake. Of course, the
 implementation is more intricate than this, but it is essentially a single
-multiplication of each participant's weight by their balance in a database.
+multiplication of each participant's weight by their balance in the ledger.
 
 In the end, the technical difference between cryptocurrencies and centralized
 digital currencies are minimal: Proof of Stake Cryptocurrencies fiddle around
@@ -104,3 +104,5 @@ you to believe, the trade-off is extremely small. Either you have violence, or
 you have censorship resistance. [Everyone deserves to transact freely and
 confidentially](crypto_is_for_criminals.html). Blockchains may not be able to
 solve the world's ills, but we should nonetheless consider them a useful tool.
+It would be ridiculous to say that cryptocurrency is inferior to the currently
+available payment methods.
