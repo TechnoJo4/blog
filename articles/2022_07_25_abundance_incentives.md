@@ -128,17 +128,3 @@ and get closer to a world without artificial scarcity. These failed experiments
 are sometimes comparatively better than the currently imposed systems, and may
 still be preferable.
 
-## Conclusion
-
-A lens of analysis is very rarely useful for only one problem. The same
-principle applies both to mathematics and anarchism.
-
-"Artificial scarcity" is a great example of how generalization can make
-individual situations easier to analyze. At the root of my thought process was
-only the critique of intellectual property. Applying the same thought to
-money made it more obvious to me that artificial scarcity was first and
-foremost the *consequence of power*. This then allowed me to develop the
-critique of enforcement, and strengthen my case against both intellectual
-property and enforcement.
-
-Abundance is possible. Power restricts abundance. 
