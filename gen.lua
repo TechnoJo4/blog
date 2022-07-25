@@ -50,11 +50,6 @@ coroutine.wrap(function()
 		local data = fs.readFile(path)
 		local title = data:match("^# (.-)\n")
 
-		local result = exectpl(tpl, {
-			title = title,
-			article_data = data
-		})
-
 		local resname
 		local year, month, day, linktitle = file.name:match("^(%d+)_(%d+)_(%d+)_(.*)%.")
 		if year and month and day then
@@ -69,6 +64,12 @@ coroutine.wrap(function()
 		else
 			resname = file.name:match("^(.*)%.")..".html"
 		end
+
+		local result = exectpl(tpl, {
+			title = title,
+			article_data = data,
+			resname = resname
+		})
 
 		fs.writeFile("dist/"..resname, result)
 	end
